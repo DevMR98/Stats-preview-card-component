@@ -1,4 +1,4 @@
-#Stats preview card component
+# Stats preview card component
 
 Ejercicio tomado de la página web de frontend mentor.
 
