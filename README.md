@@ -10,3 +10,5 @@ Tecnologias utilizadas
 Para lograr la responsividad de este proyecto fue necesario 
 usar Media queries de css donde se tomaron 3 puntos de ruptura de diferentes,
 tipos de resoluciones, tambien se implemento Css grid y un poco de flexbox.
+
+Link del proyecto: https://cozy-cendol-7969ae.netlify.app/
